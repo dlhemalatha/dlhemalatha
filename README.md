@@ -2,7 +2,7 @@
                                                 A Passionate Developer from India
 
 # 💫 About Me: 
--I’m  interested in coding.....<br>- I’m looking to collaborate on.....<br>- I’m currently learning Full stack Web Development.....<br>-Ask me about HTML,CSS,JAVASCRIPT,PYTHON,JAVA.....<br>-How to reach me - hemadlhemalatha@gmail.com<br>
+-I’m  interested in coding.....<br>-I’m looking to collaborate on.....<br>-I’m currently learning Full stack Web Development.....<br>-Ask me about HTML,CSS,JAVASCRIPT,PYTHON,JAVA.....<br>-How to reach me - hemadlhemalatha@gmail.com<br>
 
 
 ## 🌐 Socials:
